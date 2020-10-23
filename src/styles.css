@@ -1,0 +1,16 @@
+.option{
+    background-color:#5482e6;
+    color: white;
+    font-size:15px;
+    padding:5px;
+    margin:3px;
+}
+.cursor-pointer{
+    cursor: pointer;
+}
+
+.results{
+    border: 5px solid black;
+    margin:4px;
+    padding:6px;
+}
